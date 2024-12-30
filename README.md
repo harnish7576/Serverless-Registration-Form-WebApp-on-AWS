@@ -1,8 +1,6 @@
 # Serverless-Registration-Form-WebApp-on-AWS
 
 ![Front-end](UI.png)
-# Serverless Registration Form
-
 ### Step 1: Created a DynamoDB Table
 ```sh
 Table Name: form-table
