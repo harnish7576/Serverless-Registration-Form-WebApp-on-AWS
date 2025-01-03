@@ -17,19 +17,17 @@ Permissions:
 2. DynamoDB Full Access
 ```
 
-### Step 3: Created Lambda Function
+### Step 3: Created and wrote a Lambda Function
 ```sh
 Function Name: registration-form-function
 Runtime: Python 3.9
 ```
 
-### Step 4: Wrote a Lambda Function
-
-### Step 5: Created API Gateway and Enable CORS
+### Step 4: Created API Gateway and Enable CORS
 ```sh
 Access-Control-Allow-Origin: '*'
 Access-Control-Allow-Headers: Content-Type,X-Amz-Date,Authorization,X-Api-Key,X-Amz-Security-Token
 Access-Control-Allow-Methods: POST
 ```
 
-### Step 6: Test the Project
+### Step 5: Test the Project
