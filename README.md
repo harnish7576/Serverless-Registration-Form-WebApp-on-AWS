@@ -1,7 +1,7 @@
 # Serverless-Registration-Form-WebApp-on-AWS
 
 ## AWS Architecture
-![AWS](architecture.png)
+![AWS](Architecture.png)
 
 ## WebApp
 ![Front-end](UI.png)
